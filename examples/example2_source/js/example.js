@@ -1,3 +1,9 @@
+/* Ed Aldermank
+ * Adjusted fields to create a greeting, 
+ * and dynamically adjust pricing fields.
+ */
+
+
 // Create variables for the welcome message
 var greet = ;
 var name = ;
