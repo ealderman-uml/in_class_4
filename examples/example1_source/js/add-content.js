@@ -1,3 +1,7 @@
+/* Ed Alderman
+ * This script adjusts the greeting on the page based on the hour.
+ */
+
 var today = new Date();
 var hourNow = today.getHours(); // returns and integer in range 0 - 23
 var greeting;

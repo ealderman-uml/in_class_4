@@ -1,3 +1,8 @@
+/* Ed Alderman
+ * This script adjusts the welcome message on the page,
+ * and dynamically sets the pricing fields.
+ */
+
 // Create variables for the welcome message
 var greet = 'Hello ';
 var name = 'Molly';
